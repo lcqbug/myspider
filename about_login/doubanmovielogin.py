@@ -30,7 +30,7 @@ def getid(img):
     return img[left + 1:right]
 
 
-from . import setting
+from about_login import setting
 
 if not img:
     print('没有验证码!')
