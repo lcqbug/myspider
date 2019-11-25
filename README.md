@@ -1,3 +1,27 @@
+# 爬虫项目合集
+
+1. #### 弟子规爬取[<http://www.dizigui.cn/xijiang1.asp>](<http://www.dizigui.cn/xijiang1.asp>)
+
+
+
+
+
+
+
+
+
+[**User-Agent 库的地址**](https://fake-useragent.herokuapp.com/browsers/0.1.11)
+
+也可以自制user-agent
+
+
+
+<fakeu.py> 里有很多可以使用的useragent
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/lcqbug/myspider/edit/master/README.md) to maintain and preview the content for your website in Markdown files.

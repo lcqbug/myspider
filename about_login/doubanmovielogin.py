@@ -30,7 +30,7 @@ def getid(img):
     return img[left + 1:right]
 
 
-from about_login import setting
+from about_login import settings
 
 if not img:
     print('没有验证码!')
@@ -43,8 +43,8 @@ else:
     # moM7f9R9Rb6iueTVo46KVGcP: en
     data = {
         'redir': 'https://www.douban.com/',
-        'form_email': setting.email,  # 此处需要填写自己的email
-        'form_password': setting.psd,  # 此处需要填写自己的密码
+        'form_email': settings.email,  # 此处需要填写自己的email
+        'form_password': settings.psd,  # 此处需要填写自己的密码
         'captcha-solution': stri,
         'captcha-id': getid(img),
         'login': '登录'
