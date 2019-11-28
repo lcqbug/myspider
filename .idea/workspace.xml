@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a6a23d30-10e5-423c-b4fa-a8239038c9da" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/jingdong_spider/jd.py" beforeDir="false" afterPath="$PROJECT_DIR$/jingdong_spider/jd.py" afterDir="false" />
-    </list>
+    <list default="true" id="a6a23d30-10e5-423c-b4fa-a8239038c9da" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +38,7 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jingdong_spider/jd.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="111">
@@ -48,6 +46,24 @@
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/github/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="370">
+              <caret line="10" column="66" selection-start-line="10" selection-start-column="66" selection-end-line="10" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/github/login_github.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="37">
+              <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -111,6 +127,8 @@
         <option value="$PROJECT_DIR$/jingdong_spider/jd_cookie_util.py" />
         <option value="$PROJECT_DIR$/jingdong_spider/jd_test.py" />
         <option value="$PROJECT_DIR$/jingdong_spider/jd.py" />
+        <option value="$PROJECT_DIR$/github/login_github.py" />
+        <option value="$PROJECT_DIR$/github/__init__.py" />
       </list>
     </option>
   </component>
@@ -134,13 +152,7 @@
             <path>
               <item name="myspider" type="b2602c69:ProjectViewProjectNode" />
               <item name="myspider" type="462c0819:PsiDirectoryNode" />
-              <item name="jingdong_spider" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myspider" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myspider" type="462c0819:PsiDirectoryNode" />
-              <item name="jingdong_spider" type="462c0819:PsiDirectoryNode" />
-              <item name="jd_cookie_util.py" type="8704e2dd:PyFileNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="myspider" type="b2602c69:ProjectViewProjectNode" />
@@ -163,6 +175,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\myspider\github" />
       <recent name="D:\PycharmProjects\myspider\jingdong_spider" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -268,12 +281,12 @@
       <updated>1530776146995</updated>
       <workItem from="1574662384851" duration="12395000" />
       <workItem from="1574729255955" duration="217000" />
-      <workItem from="1574929790427" duration="944000" />
+      <workItem from="1574929790427" duration="1703000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13556000" />
+    <option name="totallyTimeSpent" value="14315000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -503,6 +516,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/jingdong_spider/jd.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="111">
@@ -510,6 +531,20 @@
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/github/login_github.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/github/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="10" column="66" selection-start-line="10" selection-start-column="66" selection-end-line="10" selection-end-column="66" />
         </state>
       </provider>
     </entry>
