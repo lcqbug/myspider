@@ -2,7 +2,6 @@ import requests
 from jingdong_spider import jd_cookie_util
 url = 'https://www.jd.com/'
 
-
 headers_str = """
 :authority: www.jd.com
 :method: GET
